@@ -5,5 +5,6 @@ This example demostrate how to use SmartConfig for ESP8266/ESP32 modules using a
 Arduino code for SmartConfig is in WiFiSmartConifg folder.
 
 NOTE: Support only Android for now. Made for upcomig Sinric app.
+Based on ESP Touch v0.3.7.0 https://github.com/EspressifApp/EsptouchForAndroid
 
 ![How it looks like](https://github.com/kakopappa/esp8266_smartconfig_flutter_example/blob/master/flutter_01.png)
